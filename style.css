@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  margin: 0;
+  background: #141414;
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+
+/* Navbar */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: #000;
+  align-items: center;
+}
+
+.logo {
+  color: #e50914;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Search */
+.search-box {
+  display: flex;
+  gap: 5px;
+}
+
+.search-box input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.search-box button {
+  background: #e50914;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Section */
+.section {
+  padding: 1rem 2rem;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+}
+
+/* Movie Row */
+.movies {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+}
+
+.movies::-webkit-scrollbar {
+  height: 6px;
+}
+
+.movies::-webkit-scrollbar-thumb {
+  background: #444;
+}
+
+/* Card */
+.card {
+  min-width: 160px;
+  transition: 0.3s;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.card p {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
