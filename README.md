@@ -335,18 +335,6 @@ The concepts used in this project are useful in:
 
 ---
 
-# 📸 Project Preview
-
-Add your screenshots here.
-
-```bash
-Screenshot 1
-Screenshot 2
-Screenshot 3
-```
-
----
-
 # ▶️ How to Run the Project
 
 ## Step 1
