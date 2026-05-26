@@ -376,7 +376,7 @@ This project is created for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-Developed with ❤️ using HTML, CSS, and JavaScript.
+Developed by Abhay Pratap Singh using HTML, CSS, and JavaScript.
 
 ---
 
