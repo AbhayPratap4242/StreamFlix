@@ -146,25 +146,6 @@ It helps us:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-StreamFlix/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   ├── posters/
-│   ├── icons/
-│   └── trailers/
-│
-└── README.md
-```
-
----
-
 # 🔥 Core Concepts Used
 
 ## 📌 DOM Manipulation
@@ -332,26 +313,6 @@ The concepts used in this project are useful in:
 * Media dashboards
 * Video platforms
 * Interactive web applications
-
----
-
-# ▶️ How to Run the Project
-
-## Step 1
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/streamflix.git
-```
-
-## Step 2
-
-Open the project folder.
-
-## Step 3
-
-Run the `index.html` file in your browser.
 
 ---
 
